@@ -4,8 +4,8 @@
 
 2. Describe the importance of conditional rendering and how mapping over an array helps dynamically generate list items in your SuperheroCard component.
 
-   I have no idea how to answer this 🤪
+   Conditional rendering allows you to display different components based on specific conditions, while mapping enables you to generate a list of components from an array, making it easy to handle repetitive elements. 
 
 3. Reflect on how applying the ADDIE model and Mayer’s Cognitive Theory of Multimedia Learning principles influenced the structure and clarity of your project. How did planning and segmenting your work impact your final deliverable?
 
-   Huh???
+   Further enhanced the clarity and flow of the final deliverable. 
